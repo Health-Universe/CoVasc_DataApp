@@ -229,9 +229,9 @@ druglist = df1.index.levels[0].tolist()
 druglist1 = ["Remdesivir_1A06","Hydroxychloroquine_1F11","Lopinavir_1H04","Ritonavir_1A11","Favipiravir_1D10","Ivermectin_1F05","Ribavirin_1F08"
 ,"Umifenovir_2E02","Baricitinib_2C09","Mycophenolic acid_2B10"]
 
-with st.sidebar:
-    #a_state = authentication()
+#a_state = authentication()
 a_state = 1
+
 if a_state:
 
     #Sidebar
