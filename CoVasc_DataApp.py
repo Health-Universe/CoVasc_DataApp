@@ -230,8 +230,8 @@ druglist1 = ["Remdesivir_1A06","Hydroxychloroquine_1F11","Lopinavir_1H04","Riton
 ,"Umifenovir_2E02","Baricitinib_2C09","Mycophenolic acid_2B10"]
 
 with st.sidebar:
-    a_state,user = authentication()
-
+    #a_state = authentication()
+a_state = 1
 if a_state:
 
     #Sidebar
