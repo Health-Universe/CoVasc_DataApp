@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-image
+pillow
+openpyxl
+streamlit
+plotly
+pydeck
